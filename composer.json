@@ -1,0 +1,15 @@
+{
+    "name": "alina/klientiks",
+    "autoload": {
+        "psr-4": {
+            "Alina\\Klientiks\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alina",
+            "email": "khizbullina.alina@ya.ru"
+        }
+    ],
+    "require": {}
+}
